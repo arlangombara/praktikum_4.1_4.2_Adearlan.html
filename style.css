@@ -1,0 +1,29 @@
+.kotak{
+    display: inline; 
+    float:left; 
+    margin-left:20px; 
+    font-size : 17px;
+}
+.siap{
+    display: inline; 
+    float : left; 
+    margin-left :50px; 
+    margin-top:20px;
+}
+.nasi{
+    display: inline; 
+    float:right; 
+    margin-right:50px; 
+    ont-size: 17px; 
+    text-align:right;
+}
+.makan{
+    font-size: 17px;
+}
+.goreng{
+    float: left; 
+    margin-left:50px;
+}
+.ayam{
+    margin-right: 3%;
+}

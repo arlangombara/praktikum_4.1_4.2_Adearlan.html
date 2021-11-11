@@ -1,0 +1,180 @@
+.body{
+     max-width: 1000px; 
+     border: 1px solid black; 
+     margin: auto; 
+     @media only screen and (max-width: 600px);
+}
+.header{
+    background-color: gainsboro;
+}
+.nav{
+    display: flex; 
+    align-items: center; 
+    padding: 10px; 
+    border-bottom: 
+    1px solid black;
+}
+.nav{
+    display: flex; 
+    lign-items: center; 
+    padding: 10px; 
+    border-bottom: 1px solid black;
+}
+.nav{
+    display: flex; 
+    align-items: center; 
+    adding: 10px; 
+    border-bottom: 1px solid black;
+}
+.ul{
+    margin-right: 50px; 
+    display: flex; 
+    list-style-type: none; 
+    gap: 10px;
+}
+.sip{
+    display: flex; 
+    list-style-type: none; 
+    gap: 10px;
+}
+.bos1{
+    margin-left: auto; 
+    display: flex; 
+    align-items: center; 
+    list-style-type: none; 
+    gap: 10px;
+}
+.bos2{
+    display: flex; 
+    gap: 10px; 
+    align-items: center;
+}
+.bang1{
+    display: flex; 
+    gap: 20px; 
+    margin-top: 100px; 
+    padding: 10px;
+}
+.main{
+    width: 60%;
+}
+.bola{
+    display: flex; 
+    align-items: center; 
+    gap: 10px;
+}
+.foli{
+    font-size: 23px; 
+    font-weight: bolder;
+}
+.kamu{
+    border-top: 
+    1px solid black; 
+    border-bottom: 
+    1px solid black; 
+    padding-left: 10px;
+}
+.manis{
+    list-style-type: none;
+}
+.cui{
+    display: flex;
+}
+.men{
+    list-style-type: none;
+}
+.ai1{
+    list-style-type: none;
+}
+.ai2{
+    font-weight: bolder;
+}
+.sayang1{
+    color: blue" href=";
+}
+.sayang2{
+    display: flex;
+}
+.mama{
+    list-style-type: none;
+}
+.teru{
+    list-style-type: none;
+}
+.sampai{
+    width: 300px; 
+    height: 300px; 
+    background-color: lightgray; 
+    padding: 10px; 
+    display: grid; 
+    align-items: center;
+}
+.dunia{
+    width: 100%; 
+    padding: 10px 0; 
+    border-collapse: collapse;
+}   
+.akhirat{
+    padding: 10px 0;
+}
+.tr1{
+    padding: 10px 0;
+}
+.tr2{
+    padding: 10px 0;
+}
+.td1{
+    border-top: 2px solid white; 
+    padding-left: 10px; 
+    padding-top: 10px;
+}
+.td2{
+    border-top: 2px solid white;
+}
+td3{
+    display: flex; 
+    gap: 15px; 
+    margin-bottom: 10px;
+}
+.hai1{
+    padding: 10px 0;
+}
+.sobat{
+    border-top: 2px solid white; 
+    padding-left: 
+    10px; padding-top: 10px;
+}
+.jangan{
+    border-top: 2px solid white; 
+    text-align: right; 
+    font-weight: bolder;
+}
+.pernah{
+    margin-top: 100px; 
+    border-top: 1px solid black; 
+    padding: 20px; display: grid; 
+    gap: 10px;
+}
+.bosan{
+    display: flex; 
+    gap: 10px;
+}
+.nuntut{
+    margin-left: auto;
+}
+.ilmu{
+    display: flex; gap: 5px;
+}
+.yaa1{
+    display: flex; 
+    align-items: center; 
+    margin-left: auto; 
+    font-weight: bolder;
+}
+.imput{
+    font-weight: bolder; 
+    height: 20px" type="text;
+}
+.pipi{
+    background-color: rgb(131, 126, 126);
+}
